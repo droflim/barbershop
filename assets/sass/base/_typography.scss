@@ -1,0 +1,31 @@
+h1 {
+    font-weight: $bold;
+    font-size: $xx-large;
+    font-family: $playfair;
+    font-style: $stylefont;
+    color: $white;
+     margin: 0 4.2em;
+  }
+  h2 {
+    font-weight: $light;
+    font-size: $large;
+    font-family: $playfair;
+    opacity: 10!important;
+    color: rgba(0, 0, 0, 0.5);
+    
+    
+  }
+  h3 {
+    font-family: $playfair;
+    font-size: $x-large;
+    font-style: italic;
+    color:$eerieblack;
+    
+    }
+
+  h4 {
+    font-family: $roboto;
+    font-size: $large;
+    color: $spanishpink!important;
+      
+  }

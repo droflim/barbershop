@@ -1,0 +1,63 @@
+header {
+    text-align: center;
+    background: url("../images/post-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 12.5em 0;
+    
+  }
+  .logos {
+    max-height: 50px;
+    
+  }
+
+  .fa-3x {
+      color: $white;
+  }
+
+  a:hover {
+    color: $rudy!important;
+  }
+  
+  .pt-5 {
+      padding-top: 4em!important;
+  }
+
+  
+  
+.tests {
+    margin: 0 3em;
+    margin-right: 20em;
+}
+
+.content2 {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 1em;
+    padding-top: 3.8em;
+}
+
+ 
+
+
+.bg-dark {
+  padding: 40px;
+}
+
+.px-5 .padding-1{
+  padding: 40px!important;
+}
+
+.img-ricomida ,img {
+  max-width: 500px;
+  margin: 0 auto;
+  float: none;
+}
+
+.posicion {
+  margin-left: -400px;
+  margin-top: 40px;
+}
+
+
+ 

@@ -1,0 +1,36 @@
+.button__btn {
+
+    &--medium {
+        font-size: $medium;
+        background-color: $nickel;
+        outline: none!important;
+        border: none!important;
+        border-radius: 25px;
+        color: $white;
+        font-weight: $light;
+        padding: 13px;
+        
+
+    }
+    
+
+}
+
+
+.buttons1 {
+    margin: 0 0.2em;
+     &:focus {
+        color: $rudy!important;
+        
+        }
+        
+    }
+
+    .buttons2 {
+        margin: 0 0.2em;
+         &:hover {
+            color: $rudy!important;
+            
+            }
+            
+        }

@@ -1,0 +1,83 @@
+.parrafos__prf {
+    &--medium {
+    font-weight: $light;
+    font-size: $medium;
+    font-family: $roboto;
+    padding-top: 40px;
+    line-height: 2.5em;
+    color: $degradation;
+
+  }
+}
+
+  span {
+    color: $fuzzy;
+}
+
+
+.imagen-naomi .naomi-thai {
+    display: inline-block;
+    
+    
+}
+
+
+.section ,img {
+    border-radius: 200px;
+    max-height: 180px;
+}
+
+
+
+.content {
+   display: inline-block;
+   vertical-align: middle;
+   margin: 0 1em;
+}
+
+.parrafo2 {
+    font-family: $roboto;
+    color: $degradation;
+    line-height: 1em;
+    margin-left: 2.5em;
+    
+}
+
+.parrafo {
+    padding: 70px 0;
+}
+
+.contenedor-section {
+    padding: 30px 0;
+  }
+  
+.contenedor__title {
+    margin-left: 1em;
+}
+
+.contenedor__title2 {
+    margin-left: 1.4em;
+}
+
+.contenedor__enlace {
+&--mod {
+color: $spanishpink;
+text-decoration: none;
+
+}
+}
+
+.navigation-page {
+    background-color: $platinum!important;
+    --webkit-border-radius:15px;
+  }
+  
+  .page-item.active .page-link {
+    background-color: $nickel;
+    border-color: $nickel;
+  }
+  
+   .pagination {
+     padding-top: 25px;
+   }
+  
